@@ -1,4 +1,4 @@
-#Little Lemon :lemon:
+# Little Lemon
 
 Welcome to the Little Lemon Restaurant website repository. This project was developed as a component of the Meta Frontend Developer course. It's constructed using React and presents a sophisticated interface for users interested in perusing the restaurant's menu and securing reservations.
 
